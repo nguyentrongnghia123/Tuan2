@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Điện Thoại Vsmart Joy 3 - Hàng chính hãng",
+    "price": 1790000,
+    "oldPrice": 1790000,
+    "rating": 5,
+    "reviewCount": 828,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "name": "Điện Thoại Vsmart Live 4 - Hàng chính hãng",
+    "price": 3990000,
+    "oldPrice": 4490000,
+    "rating": 4,
+    "reviewCount": 512,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  },
+  {
+    "name": "Điện Thoại Vsmart Star 5 - Hàng chính hãng",
+    "price": 2490000,
+    "oldPrice": 2790000,
+    "rating": 5,
+    "reviewCount": 340,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "red"
+  },
+  {
+    "name": "Điện Thoại Vsmart Active 3 - Hàng chính hãng",
+    "price": 3490000,
+    "oldPrice": 3990000,
+    "rating": 4,
+    "reviewCount": 275,
+    "supplier": "Cellphones",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "black"
+  },
+  {
+    "name": "Điện Thoại Vsmart Aris Pro - Hàng chính hãng",
+    "price": 6990000,
+    "oldPrice": 7490000,
+    "rating": 5,
+    "reviewCount": 190,
+    "supplier": "Cellphones",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "silver"
+  },
+  {
+    "name": "Điện Thoại Vsmart Bee 3 - Hàng chính hãng",
+    "price": 1290000,
+    "oldPrice": 1490000,
+    "rating": 4,
+    "reviewCount": 960,
+    "supplier": "Tiki Tradding",
+    "badge": "Ở ĐÂU RẺ HƠN HOÀN TIỀN",
+    "colors": [
+      "silver",
+      "red",
+      "black",
+      "blue"
+    ],
+    "defaultColor": "blue"
+  }
+]
