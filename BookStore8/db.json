@@ -1,0 +1,200 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Lập trình",
+      "emoji": "💻"
+    },
+    {
+      "id": 2,
+      "name": "Kỹ năng sống",
+      "emoji": "🌱"
+    },
+    {
+      "id": 3,
+      "name": "Văn học",
+      "emoji": "📖"
+    },
+    {
+      "id": 4,
+      "name": "Kinh tế",
+      "emoji": "📈"
+    },
+    {
+      "id": 5,
+      "name": "Thiếu nhi",
+      "emoji": "🧸"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 450000,
+      "categoryId": 1,
+      "stock": 5,
+      "description": "Cẩm nang viết code sạch, dễ đọc và dễ bảo trì dành cho mọi lập trình viên.",
+      "emoji": "🧼",
+      "color": "#CFE8FF"
+    },
+    {
+      "id": 2,
+      "title": "React Native in Action",
+      "author": "Nader Dabit",
+      "price": 389000,
+      "categoryId": 1,
+      "stock": 8,
+      "description": "Xây dựng ứng dụng di động đa nền tảng với React Native từ cơ bản đến nâng cao.",
+      "emoji": "📱",
+      "color": "#D6F5E3"
+    },
+    {
+      "id": 3,
+      "title": "Nhà Giả Kim",
+      "author": "Paulo Coelho",
+      "price": 79000,
+      "categoryId": 3,
+      "stock": 20,
+      "description": "Hành trình đi tìm kho báu của chàng chăn cừu Santiago và những bài học về ước mơ.",
+      "emoji": "⚗️",
+      "color": "#FFE9B8"
+    },
+    {
+      "id": 4,
+      "title": "Đắc Nhân Tâm",
+      "author": "Dale Carnegie",
+      "price": 86000,
+      "categoryId": 2,
+      "stock": 30,
+      "description": "Nghệ thuật đối nhân xử thế và thu phục lòng người kinh điển.",
+      "emoji": "🤝",
+      "color": "#FFD6D6"
+    },
+    {
+      "id": 5,
+      "title": "Tư Duy Nhanh Và Chậm",
+      "author": "Daniel Kahneman",
+      "price": 195000,
+      "categoryId": 4,
+      "stock": 12,
+      "description": "Hai hệ thống tư duy chi phối cách chúng ta phán đoán và ra quyết định.",
+      "emoji": "🧠",
+      "color": "#E6DEFF"
+    },
+    {
+      "id": 6,
+      "title": "Cha Giàu Cha Nghèo",
+      "author": "Robert Kiyosaki",
+      "price": 120000,
+      "categoryId": 4,
+      "stock": 15,
+      "description": "Bài học tài chính cá nhân về tài sản, thu nhập thụ động và tự do tài chính.",
+      "emoji": "💰",
+      "color": "#DFF5D0"
+    },
+    {
+      "id": 7,
+      "title": "Dế Mèn Phiêu Lưu Ký",
+      "author": "Tô Hoài",
+      "price": 55000,
+      "categoryId": 5,
+      "stock": 25,
+      "description": "Cuộc phiêu lưu của chú dế mèn qua thế giới loài vật đầy thú vị.",
+      "emoji": "🦗",
+      "color": "#D0F0E8"
+    },
+    {
+      "id": 8,
+      "title": "Muôn Kiếp Nhân Sinh",
+      "author": "Nguyên Phong",
+      "price": 168000,
+      "categoryId": 2,
+      "stock": 10,
+      "description": "Những câu chuyện về luật nhân quả và hành trình của linh hồn qua nhiều kiếp.",
+      "emoji": "🌌",
+      "color": "#E0E4FF"
+    },
+    {
+      "id": 9,
+      "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "author": "Nguyễn Nhật Ánh",
+      "price": 98000,
+      "categoryId": 3,
+      "stock": 18,
+      "description": "Tuổi thơ miền quê trong trẻo, giản dị qua giọng kể của Thiều.",
+      "emoji": "🌼",
+      "color": "#FFF3B0"
+    },
+    {
+      "id": 10,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "price": 520000,
+      "categoryId": 1,
+      "stock": 4,
+      "description": "Những lời khuyên thực dụng giúp bạn trở thành lập trình viên giỏi hơn.",
+      "emoji": "🛠️",
+      "color": "#D9ECFF"
+    },
+    {
+      "id": 11,
+      "title": "Khởi Nghiệp Tinh Gọn",
+      "author": "Eric Ries",
+      "price": 210000,
+      "categoryId": 4,
+      "stock": 9,
+      "description": "Phương pháp xây dựng doanh nghiệp bằng thử nghiệm nhanh và học hỏi liên tục.",
+      "emoji": "🚀",
+      "color": "#FFE0CC"
+    },
+    {
+      "id": 12,
+      "title": "Totto-chan Bên Cửa Sổ",
+      "author": "Tetsuko Kuroyanagi",
+      "price": 75000,
+      "categoryId": 5,
+      "stock": 22,
+      "description": "Câu chuyện cảm động về cô bé Totto-chan và ngôi trường Tomoe đặc biệt.",
+      "emoji": "🚃",
+      "color": "#FFDDEE"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Học viên Demo",
+      "email": "demo@bookstore.vn",
+      "password": "123456"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "bookId": 1,
+      "userId": 1,
+      "userName": "Học viên Demo",
+      "rating": 5,
+      "comment": "Rất đáng đọc, giúp mình viết code sạch hơn nhiều.",
+      "createdAt": "2026-10-01T08:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "bookId": 1,
+      "userId": 2,
+      "userName": "Minh Anh",
+      "rating": 4,
+      "comment": "Nội dung hay nhưng hơi dài, nên đọc từng chương.",
+      "createdAt": "2026-10-03T09:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "bookId": 3,
+      "userId": 2,
+      "userName": "Minh Anh",
+      "rating": 5,
+      "comment": "Sách nhỏ nhưng nhiều điều suy ngẫm.",
+      "createdAt": "2026-10-05T10:15:00.000Z"
+    }
+  ]
+}
